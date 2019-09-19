@@ -2,8 +2,8 @@
 A fully functional chatbot application that predicts trains delay under one situation and search for the cheapest train ticket, 
 a demo video can be viewed here: https://drive.google.com/file/d/1yvGHfjEUN7EgE20sXEximzU_5PyUHnB9/view?usp=sharing
 
-The aim of this chatbot is to help gain a better understanding of the Artificial Intelligence field, the architecture, 
-main components and implementation of the overall system by developing a chatbot system.
+The aim of this chatbot is to help gain a better understanding of the Artificial Intelligence field;
+the architecture, main components and implementation of the overall system by developing a chatbot system.
 
 The chatbot is able to complete six tasks successfully:
 1. To respond to the user initiating a conversation.
